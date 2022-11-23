@@ -309,7 +309,7 @@ public class MemberController {
 		}
 		
 		@RequestMapping(value="/kakao.do")
-		public String kakao(@SessionAttribute Member m) {
+		public String kakao() {
 			return "redirect:/";
 		}
 		

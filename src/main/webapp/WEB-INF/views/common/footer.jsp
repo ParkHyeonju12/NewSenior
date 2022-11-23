@@ -37,7 +37,7 @@
                         <a class="btn btn-link" href="/boardList.do?reqPage=1&boardType=F" >자유게시판</a>
                         <a class="btn btn-link" href="boardList.do?reqPage=1&boardType=P">동호회모집</a>
                         <a class="btn btn-link" href="boardList.do?reqPage=1&boardType=I" >정보게시판</a>
-                        <a class="btn btn-link" href="/boardList.do?reqPage=1&boardType=F">커뮤니티</a>
+                        <a class="btn btn-link" href="/boardList.do?reqPage=1&boardType=F">고객센터</a>
                         <a class="btn btn-link" href="/productList.do?reqPage=1">마켓</a>
                     </div>
                     <div class="col-lg-3 col-md-6">
